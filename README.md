@@ -10,7 +10,7 @@ ________________________________________________________________________________
 HNU_CP: Students' exercise response data and code quality data from the C Language Programming course.  
 HNU_DS: Students' exercise response data and code quality data from the Data Structures  course.  
 HNU_OO: Students' exercise response data and code quality data from the Object-Oriented Programming course.  
-HNU_CP: Students' exercise response data and code quality data from the Database course.
+HNU_DB: Students' exercise response data and code quality data from the Database course.
 _____________________________________________________________________________________________________________________________
 sid: student ID  
 qid: question ID  
